@@ -1,4 +1,4 @@
-experiment,users,gpus,end_date
+experiment,users,nodes,end_date
 0472,acg16690vw,8,2026-12-31T00:00:00Z
 0450,aci18609rw,16,2026-12-31T00:00:00Z
 0465,aci19053rd,4,2026-12-31T00:00:00Z
